@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='org.eclipse.ecf.filetransfer.httpclient5.feature.source' version='1.1.702.v20231114-1017'>
+    <properties size='11'>
+      <property name='artifact.size' value='31895'/>
+      <property name='download.size' value='31895'/>
+      <property name='maven-groupId' value='org.eclipse.ecf'/>
+      <property name='maven-artifactId' value='org.eclipse.ecf.filetransfer.httpclient5.feature'/>
+      <property name='maven-version' value='1.1.702-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources-feature'/>
+      <property name='maven-type' value='eclipse-feature'/>
+      <property name='download.contentType' value='application/zip'/>
+      <property name='download.md5' value='476d09f7c9e6998d87a9aa6669dba420'/>
+      <property name='download.checksum.md5' value='476d09f7c9e6998d87a9aa6669dba420'/>
+      <property name='download.checksum.sha-256' value='5d7293c357a6f571887037db9523ba6f1d6eda1e81950e9da9377ac5499154f2'/>
+    </properties>
+  </artifact>
+</artifacts>

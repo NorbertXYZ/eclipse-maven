@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.lucene.analysis-smartcn' version='9.10.0.v20240221-0830'>
+    <properties size='7'>
+      <property name='maven-wrapped-groupId' value='org.apache.lucene'/>
+      <property name='maven-wrapped-artifactId' value='lucene-analysis-smartcn'/>
+      <property name='maven-wrapped-version' value='9.10.0'/>
+      <property name='download.size' value='3608561'/>
+      <property name='artifact.size' value='3608561'/>
+      <property name='download.checksum.sha-512' value='65d18b53b0e6b72ee1c87fa6eacac0200c5aed08c4d3d2f6043ff4d537f8d3d5e7bb07fbaa92e41ffcb6e1946e1fa67bc88320d9505e0daf4e7c7d7cb0b253b7'/>
+      <property name='download.checksum.sha-256' value='ec384b350cb15cf35d8a4b1e76d8f33f16582ca38e0bb3e318324ace1063b22e'/>
+    </properties>
+  </artifact>
+</artifacts>

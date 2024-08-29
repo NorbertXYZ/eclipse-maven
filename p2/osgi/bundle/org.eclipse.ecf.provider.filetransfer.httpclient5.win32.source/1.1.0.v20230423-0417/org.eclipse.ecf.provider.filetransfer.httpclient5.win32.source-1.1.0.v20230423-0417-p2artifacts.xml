@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.ecf.provider.filetransfer.httpclient5.win32.source' version='1.1.0.v20230423-0417'>
+    <properties size='10'>
+      <property name='artifact.size' value='22177'/>
+      <property name='download.size' value='22177'/>
+      <property name='maven-groupId' value='org.eclipse.ecf'/>
+      <property name='maven-artifactId' value='org.eclipse.ecf.provider.filetransfer.httpclient5.win32'/>
+      <property name='maven-version' value='1.1.0-SNAPSHOT'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='maven-type' value='java-source'/>
+      <property name='download.md5' value='5e66807825ef8c8f43c021d6048396a6'/>
+      <property name='download.checksum.md5' value='5e66807825ef8c8f43c021d6048396a6'/>
+      <property name='download.checksum.sha-256' value='4cfcba71ceeb636844fbdb220092424908dbec3637c642dafa2f29417cb8ea04'/>
+    </properties>
+  </artifact>
+</artifacts>
