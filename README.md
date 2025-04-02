@@ -1,1 +1,1 @@
-# eclipse_maven-4.35
+# eclipse-maven-4.35
