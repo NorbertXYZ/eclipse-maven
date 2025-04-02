@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.eclipse.jdt</groupId>
+  <artifactId>ecj</artifactId>
+  <version>3.39.100-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20240920.235037</timestamp>
+      <buildNumber>17</buildNumber>
+    </snapshot>
+    <lastUpdated>20240921200917</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>3.39.100-20240920.235037-17</value>
+        <updated>20240920235037</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>3.39.100-20240920.235037-17</value>
+        <updated>20240920235037</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.39.100-20240920.235037-17</value>
+        <updated>20240920235037</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.39.100-20240920.235037-17</value>
+        <updated>20240920235037</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

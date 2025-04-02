@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 02 08:02:54 CEST 2025
+org.bndtools.templating-7.1.0-sources.jar>central=
+org.bndtools.templating-7.1.0.jar>central=
+org.bndtools.templating-7.1.0.pom>central=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 02 08:05:07 CEST 2025
+org.osgi.util.measurement-1.0.2-sources.jar>central=
+org.osgi.util.measurement-1.0.2.jar>central=
+org.osgi.util.measurement-1.0.2.pom>central=
