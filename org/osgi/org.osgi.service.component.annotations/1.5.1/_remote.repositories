@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Apr 02 07:57:30 CEST 2025
+#Fri Jul 18 09:40:10 CEST 2025
 org.osgi.service.component.annotations-1.5.1-sources.jar>central=
 org.osgi.service.component.annotations-1.5.1.jar>central=
 org.osgi.service.component.annotations-1.5.1.pom>central=

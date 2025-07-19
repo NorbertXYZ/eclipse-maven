@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Apr 02 08:17:08 CEST 2025
+#Fri Jul 18 10:18:26 CEST 2025
 https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1743574627928
-https\://repo.maven.apache.org/maven2/.lastUpdated=1743574628038
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1752826706449
+https\://repo.maven.apache.org/maven2/.lastUpdated=1752826706491

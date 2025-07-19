@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.batik.css.source' version='1.19.0.v20250506-1400'>
+    <properties size='10'>
+      <property name='maven-groupId' value='org.apache.xmlgraphics'/>
+      <property name='maven-artifactId' value='batik-css'/>
+      <property name='maven-version' value='1.19'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='maven-repository' value='eclipse.maven.central.mirror'/>
+      <property name='maven-type' value='jar'/>
+      <property name='download.size' value='317951'/>
+      <property name='artifact.size' value='317951'/>
+      <property name='download.checksum.sha-512' value='9c7919490c7e1f5d122451601ac72eb220cfe3ea0d2f3d7b88e7093f59c219513a7c4f071e2dfff1fff72eeafa9fec4d83593a7b744964daa9098e33dd1822d3'/>
+      <property name='download.checksum.sha-256' value='7dc74322aa9bd3395b1e3a7c5de688c352d2b4aa64bc41d53298f9e1007279a7'/>
+    </properties>
+  </artifact>
+</artifacts>

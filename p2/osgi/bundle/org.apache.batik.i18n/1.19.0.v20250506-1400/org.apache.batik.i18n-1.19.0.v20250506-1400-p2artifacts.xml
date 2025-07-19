@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.batik.i18n' version='1.19.0.v20250506-1400'>
+    <properties size='8'>
+      <property name='maven-wrapped-groupId' value='org.apache.xmlgraphics'/>
+      <property name='maven-wrapped-artifactId' value='batik-i18n'/>
+      <property name='maven-wrapped-version' value='1.19'/>
+      <property name='maven-wrapped-classifier' value=''/>
+      <property name='download.size' value='21666'/>
+      <property name='artifact.size' value='21666'/>
+      <property name='download.checksum.sha-512' value='6bb7b96fea8361b9fa451dfe26f64cc6fab7534068147eaf6825ad87e741e1d908690364e1fc835d1f07fa98bd8701a8ee1416a6e3d9d56ebe19851b5529017d'/>
+      <property name='download.checksum.sha-256' value='2dd97b77cfe59c5a45d708047a6f73ca917523278b75c29f653d28f7cf92c403'/>
+    </properties>
+  </artifact>
+</artifacts>

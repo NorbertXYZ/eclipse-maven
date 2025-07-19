@@ -9,9 +9,9 @@
       <property name='maven-artifactId' value='org.eclipse.emf.databinding.edit'/>
       <property name='maven-version' value='1.10.0-SNAPSHOT'/>
       <property name='maven-type' value='eclipse-plugin'/>
-      <property name='download.checksum.sha-512' value='9cfc92128b645916cf3c2c22ebe7e56a9aaa17ca73dc59865d11fbc117095668970cc4a191e659f3b034ea9b779b8d7630c0113e3b3f250c83e38e18e17cb4ce'/>
-      <property name='download.checksum.sha-1' value='c53bb8a1bef4fb667b14bc44d09b2623cec5b4ad'/>
-      <property name='download.checksum.sha-256' value='fbed461381bb26194db961f4ecd7a61a3944fa384194426c9a8c8ba46f84f137'/>
+      <property name='download.checksum.sha-512' value='d521b6463d6fcd83adca97419676a88a96ea5a5af42d4e975a6c3b15fbddf2788b64444282aa0781d8cf997810b42ab9f839df0f93f49aef4e1e5dc0c9993301'/>
+      <property name='download.checksum.sha-1' value='f4eedb7b778c43dfcb9d2a48aa72475203f61865'/>
+      <property name='download.checksum.sha-256' value='79c366c7189c79226a6b6456747b1e85aa868e9ea1a94cdabf8174a4408fe169'/>
     </properties>
   </artifact>
 </artifacts>

@@ -3,16 +3,16 @@
 <artifacts size='1'>
   <artifact classifier='org.eclipse.update.feature' id='org.eclipse.emf.databinding.edit' version='1.12.0.v20240604-0832'>
     <properties size='10'>
-      <property name='artifact.size' value='22806'/>
-      <property name='download.size' value='22806'/>
+      <property name='artifact.size' value='22809'/>
+      <property name='download.size' value='22809'/>
       <property name='maven-groupId' value='org.eclipse.emf.features'/>
       <property name='maven-artifactId' value='org.eclipse.emf.databinding.edit'/>
       <property name='maven-version' value='1.12.0-SNAPSHOT'/>
       <property name='maven-type' value='eclipse-feature'/>
       <property name='download.contentType' value='application/zip'/>
-      <property name='download.checksum.sha-512' value='74dcdca3648e4d545f62ce91233822316caf731b046d9aebac515e2570eae8510977811b9a7d93d8a0a488bacbd28864b9c3c232c72e674b663a4055b47b9d3e'/>
-      <property name='download.checksum.sha-1' value='1c2052401d6dfaac4569515eccbf4ba6d8694c28'/>
-      <property name='download.checksum.sha-256' value='4ab7fc1f1056b81ec33f323cc431eddd61e436818a47b3f7256cde81c37066fd'/>
+      <property name='download.checksum.sha-512' value='df8025fb059518d7e5daf384b98acf71756b440a4eb5e9ee43a6e5e243e41c7a269a08fc605f5bacd90f286045a8f55dfc5939775d7fceae531b49ef3c46ddf6'/>
+      <property name='download.checksum.sha-1' value='bf4b2fff4686ede2998d6f22905a5901c9eeaacd'/>
+      <property name='download.checksum.sha-256' value='394e6da2eacb82b10a9ae5ae3eaf1a1cd9a9b878bce7cc27fec4510927e27dc7'/>
     </properties>
   </artifact>
 </artifacts>

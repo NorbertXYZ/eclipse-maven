@@ -10,9 +10,9 @@
       <property name='maven-version' value='1.12.0-SNAPSHOT'/>
       <property name='maven-type' value='eclipse-feature'/>
       <property name='download.contentType' value='application/zip'/>
-      <property name='download.checksum.sha-512' value='7144a377b9d5264d312ec19968bab654971e83b9ad3814692b0ec436843b22c08e56952e4a0152b86a1777d70d20c562793f1016fcf17ad774e5accfb3bdf791'/>
-      <property name='download.checksum.sha-1' value='5002f763187adaa4d74f01a063ac2b61522e92df'/>
-      <property name='download.checksum.sha-256' value='45262e5f8adfac99e73e8f9775e3e4bcd86c84e61826fa1fdec01b1f9e7320b3'/>
+      <property name='download.checksum.sha-512' value='b4308089d9462967fd4d6c9acc0c23998cb6346b5e6e9fab0bb10ce6aa1dea0e0125a06dad1b3afc025458c43cc8f15b157445ec04f938a9f41613d34b50fa4f'/>
+      <property name='download.checksum.sha-1' value='59f98d2daf40649d8646518e48a17c1b6cd80270'/>
+      <property name='download.checksum.sha-256' value='50e62df553d43f261293938236b8d4b2c03cd406eeca6d988efafdf0f7f736e4'/>
     </properties>
   </artifact>
 </artifacts>

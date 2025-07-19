@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jul 18 09:40:14 CEST 2025
+junit-platform-suite-engine-1.12.2-sources.jar>central=
+junit-platform-suite-engine-1.12.2.jar>central=
+junit-platform-suite-engine-1.12.2.pom>central=
