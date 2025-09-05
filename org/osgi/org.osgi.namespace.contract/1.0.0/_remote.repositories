@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jul 18 09:40:10 CEST 2025
+#Fri Sep 05 08:52:06 CEST 2025
 org.osgi.namespace.contract-1.0.0-sources.jar>central=
 org.osgi.namespace.contract-1.0.0.jar>central=
 org.osgi.namespace.contract-1.0.0.pom>central=

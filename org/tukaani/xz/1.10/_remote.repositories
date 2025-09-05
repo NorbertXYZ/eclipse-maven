@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jul 18 09:40:04 CEST 2025
+#Fri Sep 05 09:00:30 CEST 2025
 xz-1.10-sources.jar>central=
+xz-1.10.jar.sha512>central=
 xz-1.10.jar>central=
 xz-1.10.pom>central=

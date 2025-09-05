@@ -1,0 +1,18 @@
+FILE-LAST_UPDATED=1757055662562
+HTTP_RESPONSE_CODE=200
+\:status=200
+accept-ranges=bytes
+alt-svc=h3\="\:443"; ma\=86400
+cache-control=public, max-age\=43200
+cf-cache-status=HIT
+cf-ray=97a3da617e15a2ac-YUL
+content-length=356051
+content-type=application/x-java-archive
+date=Fri, 05 Sep 2025 07\:01\:02 GMT
+etag="72514209"
+expect-ct=max-age\=86400, enforce
+expires=Fri, 05 Sep 2025 19\:01\:02 GMT
+last-modified=Thu, 05 Jun 2025 02\:11\:11 GMT
+referrer-policy=same-origin
+server=cloudflare
+vary=Accept-Encoding

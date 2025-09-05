@@ -3,16 +3,16 @@
 <artifacts size='1'>
   <artifact classifier='osgi.bundle' id='org.eclipse.emf.ecore.change.source' version='2.17.0.v20240604-0832'>
     <properties size='10'>
-      <property name='artifact.size' value='96161'/>
-      <property name='download.size' value='96161'/>
+      <property name='artifact.size' value='96144'/>
+      <property name='download.size' value='96144'/>
       <property name='maven-groupId' value='org.eclipse.emf'/>
       <property name='maven-artifactId' value='org.eclipse.emf.ecore.change'/>
       <property name='maven-version' value='2.17.0-SNAPSHOT'/>
       <property name='maven-classifier' value='sources'/>
       <property name='maven-type' value='java-source'/>
-      <property name='download.checksum.sha-512' value='001642e3430bb5b02db42fbc1bceefb156704a1524e930365764766047d0da1844be101d135bfbcc57611d0ecb8e2459f15551f4d8008c1a55c032db6f678566'/>
-      <property name='download.checksum.sha-1' value='20f691a700ef26970f410ed25dbc556a5f312fb9'/>
-      <property name='download.checksum.sha-256' value='8b74a0d73b634d10bda329055351b553778cea97c80b89ca1f9058cee34fd7be'/>
+      <property name='download.checksum.sha-512' value='a2a522ff334543ca9d6d45f4e80dc48f85d1411db4c958f212d152c0d133fe41073e15e664b22bce6b439b8f32d0661e57c993b24dac808be6d443f274ef5b63'/>
+      <property name='download.checksum.sha-1' value='769f3f96abbd06f50cd68f5baebc345bc5e37a7b'/>
+      <property name='download.checksum.sha-256' value='3ddfb318334e891139fc5a6d34fed77352bfa4c3f11f350717de0ab22d10d5f0'/>
     </properties>
   </artifact>
 </artifacts>
