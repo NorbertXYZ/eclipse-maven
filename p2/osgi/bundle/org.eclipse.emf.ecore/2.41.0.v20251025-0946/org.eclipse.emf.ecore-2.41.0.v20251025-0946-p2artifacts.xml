@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.emf.ecore' version='2.41.0.v20251025-0946'>
+    <properties size='8'>
+      <property name='artifact.size' value='1402973'/>
+      <property name='download.size' value='1402973'/>
+      <property name='maven-groupId' value='org.eclipse.emf'/>
+      <property name='maven-artifactId' value='org.eclipse.emf.ecore'/>
+      <property name='maven-version' value='2.41.0-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.checksum.sha-512' value='8d39dfd015e331ef8eef58127eda732c4907e932b67daaa5c3ad494c94055e79f528c2b313170ddaa2b7e694c09f6a06974a8a8f45bb6e59193ed105f1202d51'/>
+      <property name='download.checksum.sha-256' value='c2473ebf30c2e8daf446638913257b8c3f5219a35318f3679c234482dd23228b'/>
+    </properties>
+  </artifact>
+</artifacts>

@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Sep 05 08:52:08 CEST 2025
+#Fri Dec 12 08:17:55 CET 2025
 org.bndtools.headless.build.plugin.gradle-7.1.0-sources.jar>central=
 org.bndtools.headless.build.plugin.gradle-7.1.0.jar>central=
 org.bndtools.headless.build.plugin.gradle-7.1.0.pom>central=

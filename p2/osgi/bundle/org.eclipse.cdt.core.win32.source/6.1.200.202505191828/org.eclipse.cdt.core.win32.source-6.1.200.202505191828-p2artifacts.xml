@@ -10,9 +10,9 @@
       <property name='maven-version' value='6.1.200-SNAPSHOT'/>
       <property name='maven-classifier' value='sources'/>
       <property name='maven-type' value='java-source'/>
-      <property name='download.checksum.sha-512' value='0e067d248351427660f2db88762b294b065640bb8d75768432d6371b07b0b1637bf2949dfcce0336dcb3a60eb27b796315119a68b58b93d46f458f674116de6a'/>
-      <property name='download.checksum.sha-1' value='bd6194520f596bec3cc652b89b875ccbf748e2ec'/>
-      <property name='download.checksum.sha-256' value='b220b1e1f38584c541e5f46f500ad454b0d5160edb448a61b4aa4938b7d7b0d3'/>
+      <property name='download.checksum.sha-512' value='7766c4d830e14e4146dc5755468ba03ffb1485044399e67b400b0ec45852734cc9bc6142f14deda0addfc5c103b736e4617e23179649376d41eb82d545dafaf9'/>
+      <property name='download.checksum.sha-1' value='1873be393447add7d1cab5e16807b70c3f7fff1a'/>
+      <property name='download.checksum.sha-256' value='e920f93adb5d3f52fc0d86e911b3e22d48f6fea3ed9284d6fbedae852c6e58e1'/>
     </properties>
   </artifact>
 </artifacts>

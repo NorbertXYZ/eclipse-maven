@@ -1,0 +1,13 @@
+FILE-LAST_UPDATED=1765523887655
+HTTP_RESPONSE_CODE=200
+\:status=200
+accept-ranges=bytes
+cache-control=private, max-age\=8m, no-transform
+content-length=426304
+content-security-policy=frame-ancestors 'self'
+content-type=application/java-archive
+date=Fri, 12 Dec 2025 07\:18\:07 GMT
+etag="68140-6447a1c554a94"
+last-modified=Wed, 26 Nov 2025 07\:11\:52 GMT
+server=nginx
+strict-transport-security=max-age\=63072000; includeSubDomains; preload

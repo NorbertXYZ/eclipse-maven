@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.equinox.simpleconfigurator.manipulator' version='2.3.600.v20250729-0655'>
+    <properties size='9'>
+      <property name='artifact.size' value='31047'/>
+      <property name='download.size' value='31047'/>
+      <property name='maven-groupId' value='org.eclipse.platform'/>
+      <property name='maven-artifactId' value='org.eclipse.equinox.simpleconfigurator.manipulator'/>
+      <property name='maven-version' value='2.3.600-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.equinox.simpleconfigurator.manipulator/2.3.600.v20250729-0655'/>
+      <property name='download.checksum.sha-512' value='2474383cd03eb6fe63d61643b0d610fed63d8642df2416334e55d1087a6b37ffc4b32ed7583f651aa2e05f402915450388170846de9b69f6ab9855d7067a1c8c'/>
+      <property name='download.checksum.sha-256' value='e75c78451409131599d00db473db3215371c15fc225e62c9211aab9f3b124013'/>
+    </properties>
+  </artifact>
+</artifacts>

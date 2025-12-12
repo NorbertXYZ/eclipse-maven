@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.httpcomponents.core5.httpcore5.source' version='5.3.6.v20250921-0900'>
+    <properties size='10'>
+      <property name='maven-groupId' value='org.apache.httpcomponents.core5'/>
+      <property name='maven-artifactId' value='httpcore5'/>
+      <property name='maven-version' value='5.3.6'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='maven-repository' value='eclipse.maven.central.mirror'/>
+      <property name='maven-type' value='jar'/>
+      <property name='download.size' value='895868'/>
+      <property name='artifact.size' value='895868'/>
+      <property name='download.checksum.sha-512' value='319f90128849eb0ece1d468a887bd5bb215f3c00c6151f1ade8f49ab12748ec617096e37967cf68c61c9a8b413d038c7f7334965638f12ee2b219517cf523db7'/>
+      <property name='download.checksum.sha-256' value='9dcb08908daf84b0106292c4879473ebba4f7a8c5b206a3486379790727c99ef'/>
+    </properties>
+  </artifact>
+</artifacts>

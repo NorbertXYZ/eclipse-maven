@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 12 08:17:49 CET 2025
+asm-tree-9.9-sources.jar>central=
+asm-tree-9.9.jar>central=
+asm-tree-9.9.pom>central=
