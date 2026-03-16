@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 08:09:23 CET 2026
+org.eclipse.core.variables-3.6.700.jar>eclipse-cbi=
+org.eclipse.core.variables-3.6.700.pom>eclipse-cbi=

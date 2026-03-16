@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:15:05 CET 2025
-httpcore-nio-4.4.13.jar>central=
-httpcore-nio-4.4.13.pom>central=
+#Mon Mar 16 08:08:14 CET 2026
+httpcore-nio-4.4.13.jar>eclipse-cbi=
+httpcore-nio-4.4.13.pom>eclipse-cbi=

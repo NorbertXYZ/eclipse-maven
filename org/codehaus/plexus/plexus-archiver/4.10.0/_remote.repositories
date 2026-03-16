@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:25:10 CET 2025
-plexus-archiver-4.10.0.jar>central=
-plexus-archiver-4.10.0.pom>central=
+#Mon Mar 16 08:23:47 CET 2026
+plexus-archiver-4.10.0.jar>eclipse-cbi=
+plexus-archiver-4.10.0.pom>eclipse-cbi=

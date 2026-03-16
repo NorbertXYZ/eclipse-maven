@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:22:33 CET 2025
-enforcer-api-3.6.1.jar>central=
-enforcer-api-3.6.1.pom>central=
+#Mon Mar 16 08:19:46 CET 2026
+enforcer-api-3.6.1.jar>eclipse-cbi=
+enforcer-api-3.6.1.pom>eclipse-cbi=

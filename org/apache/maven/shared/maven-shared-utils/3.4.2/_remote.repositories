@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:25:10 CET 2025
-maven-shared-utils-3.4.2.jar>central=
-maven-shared-utils-3.4.2.pom>central=
+#Mon Mar 16 08:23:47 CET 2026
+maven-shared-utils-3.4.2.jar>eclipse-cbi=
+maven-shared-utils-3.4.2.pom>eclipse-cbi=

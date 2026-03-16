@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:29:01 CET 2025
-doxia-core-1.12.0.jar>central=
-doxia-core-1.12.0.pom>central=
+#Mon Mar 16 08:28:58 CET 2026
+doxia-core-1.12.0.jar>eclipse-cbi=
+doxia-core-1.12.0.pom>eclipse-cbi=

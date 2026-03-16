@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:29:01 CET 2025
-java-rdfa-0.4.2.jar>central=
-java-rdfa-0.4.2.pom>central=
+#Mon Mar 16 08:28:58 CET 2026
+java-rdfa-0.4.2.jar>eclipse-cbi=
+java-rdfa-0.4.2.pom>eclipse-cbi=

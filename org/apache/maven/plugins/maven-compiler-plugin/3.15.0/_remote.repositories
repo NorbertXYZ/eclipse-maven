@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 08:13:16 CET 2026
+maven-compiler-plugin-3.15.0.jar>eclipse-cbi=
+maven-compiler-plugin-3.15.0.pom>eclipse-cbi=

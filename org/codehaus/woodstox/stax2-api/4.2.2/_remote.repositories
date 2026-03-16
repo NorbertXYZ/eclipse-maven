@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:31:01 CET 2025
-stax2-api-4.2.2.jar>central=
-stax2-api-4.2.2.pom>central=
+#Mon Mar 16 08:32:08 CET 2026
+stax2-api-4.2.2.jar>eclipse-cbi=
+stax2-api-4.2.2.pom>eclipse-cbi=

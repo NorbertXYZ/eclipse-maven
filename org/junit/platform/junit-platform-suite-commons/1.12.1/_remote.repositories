@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:35:28 CET 2025
-junit-platform-suite-commons-1.12.1.jar>central=
-junit-platform-suite-commons-1.12.1.pom>central=
+#Mon Mar 16 08:34:58 CET 2026
+junit-platform-suite-commons-1.12.1.jar>eclipse-cbi=
+junit-platform-suite-commons-1.12.1.pom>eclipse-cbi=

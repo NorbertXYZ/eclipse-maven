@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:25:10 CET 2025
-httpclient-4.5.14.jar>central=
-httpclient-4.5.14.pom>central=
+#Mon Mar 16 08:23:47 CET 2026
+httpclient-4.5.14.jar>eclipse-cbi=
+httpclient-4.5.14.pom>eclipse-cbi=

@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:17:00 CET 2025
-tycho-bundles-external-2.7.5.pom>central=
-tycho-bundles-external-2.7.5.zip>central=
+#Mon Mar 16 08:12:20 CET 2026
+tycho-bundles-external-2.7.5.pom>eclipse-cbi=
+tycho-bundles-external-2.7.5.zip>eclipse-cbi=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 08:13:44 CET 2026
+jetty-servlet-api-4.0.9-sources.jar>central=
+jetty-servlet-api-4.0.9.jar>central=
+jetty-servlet-api-4.0.9.pom>central=

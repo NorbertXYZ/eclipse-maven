@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:26:57 CET 2025
-surefire-junit47-3.5.4.jar>central=
-surefire-junit47-3.5.4.pom>central=
+#Mon Mar 16 08:25:48 CET 2026
+surefire-junit47-3.5.4.jar>eclipse-cbi=
+surefire-junit47-3.5.4.pom>eclipse-cbi=

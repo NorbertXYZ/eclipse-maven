@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 08:07:44 CET 2026
+tycho-maven-plugin-5.0.2.jar>eclipse-cbi=
+tycho-maven-plugin-5.0.2.pom>eclipse-cbi=

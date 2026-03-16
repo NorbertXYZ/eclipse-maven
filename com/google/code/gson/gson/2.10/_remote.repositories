@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:15:05 CET 2025
-gson-2.10.jar>central=
-gson-2.10.pom>central=
+#Mon Mar 16 08:08:14 CET 2026
+gson-2.10.jar>eclipse-cbi=
+gson-2.10.pom>eclipse-cbi=

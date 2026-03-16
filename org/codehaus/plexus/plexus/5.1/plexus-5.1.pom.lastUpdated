@@ -1,9 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:17:22 CET 2025
-https\://repo.eclipse.org/content/repositories/cbi/.error=
-https\://repo.eclipse.org/content/repositories/cbi/.lastUpdated=1765523842931
+#Mon Mar 16 08:22:51 CET 2026
+https\://repo.eclipse.org/content/repositories/cbi/.lastUpdated=1773645771830
 https\://repo.eclipse.org/content/repositories/eclipse-snapshots/.error=
-https\://repo.eclipse.org/content/repositories/eclipse-snapshots/.lastUpdated=1765523842803
+https\://repo.eclipse.org/content/repositories/eclipse-snapshots/.lastUpdated=1773645771550
 https\://repo.eclipse.org/content/repositories/tycho-snapshots/.error=
-https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1765523842676
-https\://repo.maven.apache.org/maven2/.lastUpdated=1765523842977
+https\://repo.eclipse.org/content/repositories/tycho-snapshots/.lastUpdated=1773645771410

@@ -1,5 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:24:05 CET 2025
-asm-9.8.jar.sha512>central=
-asm-9.8.jar>central=
-asm-9.8.pom>central=
+#Mon Mar 16 08:08:38 CET 2026
+asm-9.8.jar>eclipse-cbi=
+asm-9.8.pom>eclipse-cbi=

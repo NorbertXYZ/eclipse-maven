@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 08:13:03 CET 2026
+org.eclipse.jdt.core.manipulation-1.23.200.jar>eclipse-cbi=
+org.eclipse.jdt.core.manipulation-1.23.200.pom>eclipse-cbi=

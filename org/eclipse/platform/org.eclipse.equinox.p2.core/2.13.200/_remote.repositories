@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 16 08:07:10 CET 2026
+org.eclipse.equinox.p2.core-2.13.200.jar>central=
+org.eclipse.equinox.p2.core-2.13.200.pom>central=

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.equinox.p2.metadata' version='2.9.600.v20251108-0408'>
+    <properties size='9'>
+      <property name='artifact.size' value='380440'/>
+      <property name='download.size' value='380440'/>
+      <property name='maven-groupId' value='org.eclipse.platform'/>
+      <property name='maven-artifactId' value='org.eclipse.equinox.p2.metadata'/>
+      <property name='maven-version' value='2.9.600-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.equinox.p2.metadata/2.9.600.v20251108-0408'/>
+      <property name='download.checksum.sha-512' value='1dfc1bdeb4c7b8c71de379102fc80b5d59adaf3890d00875695f91a3e1d0f816fd9f3ed6397317d54e1b58acd5d089f2bca2ff4875c0405bcc939129d7471b37'/>
+      <property name='download.checksum.sha-256' value='686536f7368917e80ff4e5547ea242b8e382e68155244ae442baf5db0f137f86'/>
+    </properties>
+  </artifact>
+</artifacts>

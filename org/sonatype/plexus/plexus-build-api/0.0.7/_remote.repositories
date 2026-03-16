@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:15:05 CET 2025
-plexus-build-api-0.0.7.jar>central=
-plexus-build-api-0.0.7.pom>central=
+#Mon Mar 16 08:08:14 CET 2026
+plexus-build-api-0.0.7.jar>eclipse-cbi=
+plexus-build-api-0.0.7.pom>eclipse-cbi=

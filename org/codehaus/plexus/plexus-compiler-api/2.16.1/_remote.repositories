@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:15:59 CET 2025
-plexus-compiler-api-2.16.1.jar>central=
-plexus-compiler-api-2.16.1.pom>central=
+#Mon Mar 16 08:09:41 CET 2026
+plexus-compiler-api-2.16.1.jar>eclipse-cbi=
+plexus-compiler-api-2.16.1.pom>eclipse-cbi=

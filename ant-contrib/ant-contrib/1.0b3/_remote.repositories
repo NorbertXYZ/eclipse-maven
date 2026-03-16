@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:19:26 CET 2025
-ant-contrib-1.0b3.jar>central=
-ant-contrib-1.0b3.pom>central=
+#Mon Mar 16 08:16:48 CET 2026
+ant-contrib-1.0b3.jar>eclipse-cbi=
+ant-contrib-1.0b3.pom>eclipse-cbi=

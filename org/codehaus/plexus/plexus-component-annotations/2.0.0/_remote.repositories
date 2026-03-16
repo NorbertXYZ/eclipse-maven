@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:26:19 CET 2025
-plexus-component-annotations-2.0.0.jar>central=
-plexus-component-annotations-2.0.0.pom>central=
+#Mon Mar 16 08:25:02 CET 2026
+plexus-component-annotations-2.0.0.jar>eclipse-cbi=
+plexus-component-annotations-2.0.0.pom>eclipse-cbi=

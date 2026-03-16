@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:31:01 CET 2025
-jakarta.servlet.jsp.jstl-api-1.2.7.jar>central=
-jakarta.servlet.jsp.jstl-api-1.2.7.pom>central=
+#Mon Mar 16 08:32:08 CET 2026
+jakarta.servlet.jsp.jstl-api-1.2.7.jar>eclipse-cbi=
+jakarta.servlet.jsp.jstl-api-1.2.7.pom>eclipse-cbi=

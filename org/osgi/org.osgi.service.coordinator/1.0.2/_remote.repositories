@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:17:50 CET 2025
+#Mon Mar 16 08:14:02 CET 2026
 org.osgi.service.coordinator-1.0.2-sources.jar>central=
 org.osgi.service.coordinator-1.0.2.jar>central=
+org.osgi.service.coordinator-1.0.2.jar>eclipse-cbi=
 org.osgi.service.coordinator-1.0.2.pom>central=
+org.osgi.service.coordinator-1.0.2.pom>eclipse-cbi=

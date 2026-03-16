@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:15:05 CET 2025
-maven-archiver-3.6.5.jar>central=
-maven-archiver-3.6.5.pom>central=
+#Mon Mar 16 08:29:17 CET 2026
+maven-archiver-3.6.5.jar>eclipse-cbi=
+maven-archiver-3.6.5.pom>eclipse-cbi=

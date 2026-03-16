@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:15:17 CET 2025
-java-diff-utils-4.16.jar>central=
-java-diff-utils-4.16.pom>central=
+#Mon Mar 16 08:08:38 CET 2026
+java-diff-utils-4.16.jar>eclipse-cbi=
+java-diff-utils-4.16.pom>eclipse-cbi=

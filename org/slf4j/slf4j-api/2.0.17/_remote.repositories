@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:17:39 CET 2025
+#Mon Mar 16 08:13:42 CET 2026
 slf4j-api-2.0.17-sources.jar>central=
 slf4j-api-2.0.17.jar>central=
+slf4j-api-2.0.17.jar>eclipse-cbi=
 slf4j-api-2.0.17.pom>central=

@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:16:37 CET 2025
-maven-failsafe-plugin-3.5.3.jar>central=
-maven-failsafe-plugin-3.5.3.pom>central=
+#Mon Mar 16 08:10:52 CET 2026
+maven-failsafe-plugin-3.5.3.jar>eclipse-cbi=
+maven-failsafe-plugin-3.5.3.pom>eclipse-cbi=

@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:16:49 CET 2025
-org.eclipse.help-3.10.600.jar>central=
-org.eclipse.help-3.10.600.pom>central=
+#Mon Mar 16 08:11:33 CET 2026
+org.eclipse.help-3.10.600.jar>eclipse-cbi=
+org.eclipse.help-3.10.600.pom>eclipse-cbi=

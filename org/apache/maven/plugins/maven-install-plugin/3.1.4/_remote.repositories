@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:16:13 CET 2025
+#Mon Mar 16 08:13:14 CET 2026
 maven-install-plugin-3.1.4.jar>central=
+maven-install-plugin-3.1.4.jar>eclipse-cbi=
 maven-install-plugin-3.1.4.pom>central=
+maven-install-plugin-3.1.4.pom>eclipse-cbi=

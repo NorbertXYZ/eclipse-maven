@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:31:01 CET 2025
-failureaccess-1.0.2.jar>central=
-failureaccess-1.0.2.pom>central=
+#Mon Mar 16 08:32:08 CET 2026
+failureaccess-1.0.2.jar>eclipse-cbi=
+failureaccess-1.0.2.pom>eclipse-cbi=

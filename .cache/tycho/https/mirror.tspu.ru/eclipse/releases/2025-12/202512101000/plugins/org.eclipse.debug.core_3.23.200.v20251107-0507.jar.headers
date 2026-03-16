@@ -1,0 +1,11 @@
+FILE-LAST_UPDATED=1773645716848
+HTTP_RESPONSE_CODE=200
+\:status=200
+accept-ranges=bytes
+alt-svc=h3\="\:443"; ma\=86400
+content-length=418909
+content-type=application/java-archive
+date=Mon, 16 Mar 2026 07\:21\:56 GMT
+etag="6930cb07-6645d"
+last-modified=Wed, 03 Dec 2025 23\:43\:03 GMT
+server=nginx

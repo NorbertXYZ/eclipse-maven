@@ -1,4 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Dec 12 08:31:01 CET 2025
-maven-resolver-util-1.9.22.jar>central=
-maven-resolver-util-1.9.22.pom>central=
+#Mon Mar 16 08:32:08 CET 2026
+maven-resolver-util-1.9.22.jar>eclipse-cbi=
+maven-resolver-util-1.9.22.pom>eclipse-cbi=
