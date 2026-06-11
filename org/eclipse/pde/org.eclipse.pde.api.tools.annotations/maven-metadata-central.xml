@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<metadata modelVersion="1.1.0">
+<metadata>
   <groupId>org.eclipse.pde</groupId>
   <artifactId>org.eclipse.pde.api.tools.annotations</artifactId>
   <versioning>
-    <latest>1.4.0</latest>
-    <release>1.4.0</release>
+    <latest>1.4.100</latest>
+    <release>1.4.100</release>
     <versions>
       <version>1.0.100</version>
       <version>1.1.0</version>
@@ -16,7 +16,8 @@
       <version>1.2.0</version>
       <version>1.3.0</version>
       <version>1.4.0</version>
+      <version>1.4.100</version>
     </versions>
-    <lastUpdated>20240910032033</lastUpdated>
+    <lastUpdated>20260608064350</lastUpdated>
   </versioning>
 </metadata>

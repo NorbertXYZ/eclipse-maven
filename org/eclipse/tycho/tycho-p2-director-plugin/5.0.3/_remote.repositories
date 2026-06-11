@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 11 08:58:56 CEST 2026
+tycho-p2-director-plugin-5.0.3.jar>eclipse-cbi=
+tycho-p2-director-plugin-5.0.3.pom>eclipse-cbi=

@@ -7,10 +7,10 @@
       <property name='maven-wrapped-artifactId' value='batik-css'/>
       <property name='maven-wrapped-version' value='1.19'/>
       <property name='maven-wrapped-classifier' value=''/>
-      <property name='download.size' value='366169'/>
-      <property name='artifact.size' value='366169'/>
-      <property name='download.checksum.sha-512' value='c45dc8e4a5796618eb0ba4ed26439ef4e5a4c65bd0206acc6b4504aeb9feb310331954c1099bbebe345f932b04fc208af9b8ad639aad02cb231c1536729aeff3'/>
-      <property name='download.checksum.sha-256' value='721996fcdbacb8eb8d915e0fbc60a2261690a9be232eac1ed7e3a9dd410235c3'/>
+      <property name='download.size' value='366151'/>
+      <property name='artifact.size' value='366151'/>
+      <property name='download.checksum.sha-512' value='287ad5edacf32a99405fdb821962291d3880793751d1a7f295dc53d8ddf1ddfcd47a70c246a667893a29dbcb745e1d7e6b1dd151d1c7a664d131f4d3887f2fdf'/>
+      <property name='download.checksum.sha-256' value='1af741e4b1269864621f3dd6193f843e0bcfcfde4224258891ed1929428802fe'/>
     </properties>
   </artifact>
 </artifacts>

@@ -9,10 +9,10 @@
       <property name='maven-classifier' value='sources'/>
       <property name='maven-repository' value='eclipse.maven.central.mirror'/>
       <property name='maven-type' value='jar'/>
-      <property name='download.size' value='317951'/>
-      <property name='artifact.size' value='317951'/>
-      <property name='download.checksum.sha-512' value='9c7919490c7e1f5d122451601ac72eb220cfe3ea0d2f3d7b88e7093f59c219513a7c4f071e2dfff1fff72eeafa9fec4d83593a7b744964daa9098e33dd1822d3'/>
-      <property name='download.checksum.sha-256' value='7dc74322aa9bd3395b1e3a7c5de688c352d2b4aa64bc41d53298f9e1007279a7'/>
+      <property name='download.size' value='317943'/>
+      <property name='artifact.size' value='317943'/>
+      <property name='download.checksum.sha-512' value='4d09fc185181d68d395b0ff2522fd356fa2f6e5f82b05da5f736092d2b92311404d4d1c8a58002e7bf10ea2e327ea0d651fbeb3edb5f3008ee65c481d7586ff3'/>
+      <property name='download.checksum.sha-256' value='1736aa1e33df5f3678ca9bee6c2f4f38b852cbb864822453d235b316875af59b'/>
     </properties>
   </artifact>
 </artifacts>

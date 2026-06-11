@@ -1,5 +1,4 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Mar 16 08:14:08 CET 2026
-bndtools.api-7.2.1-sources.jar>central=
-bndtools.api-7.2.1.jar>central=
-bndtools.api-7.2.1.pom>central=
+#Thu Jun 11 08:58:47 CEST 2026
+bndtools.api-7.2.1.jar>eclipse-cbi=
+bndtools.api-7.2.1.pom>eclipse-cbi=

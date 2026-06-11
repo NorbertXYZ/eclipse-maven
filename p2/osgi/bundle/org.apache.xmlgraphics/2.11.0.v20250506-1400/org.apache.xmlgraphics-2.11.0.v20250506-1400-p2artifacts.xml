@@ -7,10 +7,10 @@
       <property name='maven-wrapped-artifactId' value='xmlgraphics-commons'/>
       <property name='maven-wrapped-version' value='2.11'/>
       <property name='maven-wrapped-classifier' value=''/>
-      <property name='download.size' value='739567'/>
-      <property name='artifact.size' value='739567'/>
-      <property name='download.checksum.sha-512' value='208f544255514dd8d993a1ba84857598d2aa067349ad5395a938e70bc2ac1d177666cb624bdd510b264e1df7f079fc6a7d609d24278ee1e29bcb467b3ddbe2ee'/>
-      <property name='download.checksum.sha-256' value='645e84de533baf344793635617d8cb36464ffd6d6dda36117971d9110c3f00a2'/>
+      <property name='download.size' value='739553'/>
+      <property name='artifact.size' value='739553'/>
+      <property name='download.checksum.sha-512' value='1ea9ab871b86a600d4e51bfe9a33ee3799ab4b16f4b003b7f2ca3986c85aa8de12ff80645671c4d4d37e1965bdab072ee5c6d18b0f679c4c627f525d173542ee'/>
+      <property name='download.checksum.sha-256' value='a22a6f228afb55bb33ca56a2374ca1faa5a7fbabbe3837143c36efd5ea43e2ae'/>
     </properties>
   </artifact>
 </artifacts>

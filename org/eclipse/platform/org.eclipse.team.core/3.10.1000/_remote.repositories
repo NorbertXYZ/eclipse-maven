@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 11 08:58:47 CEST 2026
+org.eclipse.team.core-3.10.1000.jar>eclipse-cbi=
+org.eclipse.team.core-3.10.1000.pom>eclipse-cbi=

@@ -10,8 +10,8 @@
       <property name='maven-version' value='1.10.0-SNAPSHOT'/>
       <property name='maven-classifier' value='sources'/>
       <property name='maven-type' value='java-source'/>
-      <property name='download.checksum.sha-512' value='e88f058f43cbcda6d5cb925314be72c3a2a5eb6f794983bfa2b30e57516c97894d47c42d7e41faeb8a5ee847ce10e78c478c206c1f06873fed5350c36072867d'/>
-      <property name='download.checksum.sha-256' value='5dfeb3cdba0907739602e44b19ee8980a585a2bd2c1112f246870f258e29feea'/>
+      <property name='download.checksum.sha-512' value='b835e7061f95aeea99046f885bf2bd06c2883b3f7a30116c762e675cbc3c27bc879fa759905e2a92d0b0c52116fbed10c5804e992348b40dffa8a5051ba5afd9'/>
+      <property name='download.checksum.sha-256' value='5394525167453f30f33e7527b7771f7c7c78bd14c35cbd6af06d1bee783f531b'/>
     </properties>
   </artifact>
 </artifacts>

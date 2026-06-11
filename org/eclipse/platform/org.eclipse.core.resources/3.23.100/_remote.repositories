@@ -1,4 +1,3 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Mar 16 08:07:10 CET 2026
-org.eclipse.core.resources-3.23.100.jar>central=
-org.eclipse.core.resources-3.23.100.pom>central=
+#Thu Jun 11 08:57:16 CEST 2026
+org.eclipse.core.resources-3.23.100.pom>eclipse-cbi=

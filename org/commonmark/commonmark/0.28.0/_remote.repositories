@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 11 09:00:11 CEST 2026
+commonmark-0.28.0-sources.jar>central=
+commonmark-0.28.0.jar>central=
+commonmark-0.28.0.pom>central=

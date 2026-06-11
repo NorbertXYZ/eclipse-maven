@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 11 08:59:17 CEST 2026
+org.eclipse.pde.ui-3.16.400.jar>eclipse-cbi=
+org.eclipse.pde.ui-3.16.400.pom>eclipse-cbi=

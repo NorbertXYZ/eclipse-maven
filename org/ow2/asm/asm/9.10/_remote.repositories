@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 11 08:57:26 CEST 2026
+asm-9.10.jar>eclipse-cbi=
+asm-9.10.pom>eclipse-cbi=

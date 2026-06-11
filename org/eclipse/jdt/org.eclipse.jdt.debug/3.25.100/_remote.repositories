@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 11 08:57:26 CEST 2026
+org.eclipse.jdt.debug-3.25.100.jar>eclipse-cbi=
+org.eclipse.jdt.debug-3.25.100.pom>eclipse-cbi=

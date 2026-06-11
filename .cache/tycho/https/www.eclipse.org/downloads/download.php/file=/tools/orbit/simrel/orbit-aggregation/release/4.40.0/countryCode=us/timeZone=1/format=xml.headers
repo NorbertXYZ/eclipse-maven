@@ -1,0 +1,11 @@
+FILE-LAST_UPDATED=1781161214856
+HTTP_RESPONSE_CODE=200
+\:status=200
+cache-control=max-age\=300, public, must-revalidate
+content-length=63
+content-security-policy=frame-ancestors 'self'
+content-type=text/xml;charset\=UTF-8
+date=Thu, 11 Jun 2026 07\:00\:11 GMT
+expires=Thu, 11 Jun 2026 07\:05\:14 GMT
+server=nginx
+strict-transport-security=max-age\=63072000; includeSubDomains; preload

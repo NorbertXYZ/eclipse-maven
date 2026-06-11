@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Mar 16 08:29:27 CET 2026
+#Thu Jun 11 09:11:56 CEST 2026
 org.osgi.dto-1.0.0.jar>central=
 org.osgi.dto-1.0.0.jar>eclipse-cbi=
 org.osgi.dto-1.0.0.pom>eclipse-cbi=

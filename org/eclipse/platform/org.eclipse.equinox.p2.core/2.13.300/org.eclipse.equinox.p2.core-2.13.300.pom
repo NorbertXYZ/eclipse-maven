@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.eclipse.platform</groupId>
+  <artifactId>org.eclipse.equinox.p2.core</artifactId>
+  <version>2.13.300</version>
+  <name>Equinox Provisioning Core</name>
+  <description>Equinox Provisioning Core</description>
+  <url>https://github.com/eclipse-equinox/p2/</url>
+  <organization>
+    <name>Eclipse Foundation</name>
+    <url>https://www.eclipse.org</url>
+  </organization>
+  <licenses>
+    <license>
+      <name>EPL-2.0</name>
+      <url>https://www.eclipse.org/legal/epl-2.0/</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <url>https://github.com/eclipse-equinox/p2/graphs/contributors</url>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git:https://github.com/eclipse-equinox/p2.git</connection>
+    <developerConnection>scm:git:https://github.com/eclipse-equinox/p2.git</developerConnection>
+    <tag>eeccc1ce323936b0d934ee0e791b3241c72bbf3b</tag>
+    <url>https://github.com/eclipse-equinox/p2/tree/eeccc1ce323936b0d934ee0e791b3241c72bbf3b/bundles/org.eclipse.equinox.p2.core</url>
+  </scm>
+  <issueManagement>
+    <system>GitHub</system>
+    <url>https://github.com/eclipse-equinox/p2/issues</url>
+  </issueManagement>
+  <dependencies>
+    <dependency>
+      <groupId>org.eclipse.platform</groupId>
+      <artifactId>org.eclipse.equinox.common</artifactId>
+      <version>3.20.300</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.platform</groupId>
+      <artifactId>org.eclipse.osgi</artifactId>
+      <version>3.24.100</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcpg-jdk18on</artifactId>
+      <version>1.83</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.platform</groupId>
+      <artifactId>org.eclipse.core.runtime</artifactId>
+      <version>3.34.200</version>
+      <optional>false</optional>
+    </dependency>
+    <dependency>
+      <groupId>org.eclipse.platform</groupId>
+      <artifactId>org.eclipse.equinox.registry</artifactId>
+      <version>3.12.600</version>
+      <optional>false</optional>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 11 09:00:04 CEST 2026
+org.bndtools.versioncontrol.ignores.plugin.git-7.2.3-sources.jar>central=
+org.bndtools.versioncontrol.ignores.plugin.git-7.2.3.jar>central=
+org.bndtools.versioncontrol.ignores.plugin.git-7.2.3.pom>central=
