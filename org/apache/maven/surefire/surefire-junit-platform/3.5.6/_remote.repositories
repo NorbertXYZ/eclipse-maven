@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 10 11:11:13 CEST 2026
+surefire-junit-platform-3.5.6.jar>eclipse-cbi=
+surefire-junit-platform-3.5.6.pom>eclipse-cbi=

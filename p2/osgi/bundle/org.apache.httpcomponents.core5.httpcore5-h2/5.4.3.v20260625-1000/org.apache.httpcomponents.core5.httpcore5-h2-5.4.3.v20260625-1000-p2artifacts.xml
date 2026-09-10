@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.httpcomponents.core5.httpcore5-h2' version='5.4.3.v20260625-1000'>
+    <properties size='8'>
+      <property name='maven-wrapped-groupId' value='org.apache.httpcomponents.core5'/>
+      <property name='maven-wrapped-artifactId' value='httpcore5-h2'/>
+      <property name='maven-wrapped-version' value='5.4.3'/>
+      <property name='maven-wrapped-classifier' value=''/>
+      <property name='download.size' value='291322'/>
+      <property name='artifact.size' value='291322'/>
+      <property name='download.checksum.sha-512' value='45b08b276bcab3976c754bed6cb1fc34fb015b3ad7e13d31b215ef4e1b87af9c03c2379e5444436fa8fcf10841a4c451b1d5e6d037f466dcedc4dc96bf805797'/>
+      <property name='download.checksum.sha-256' value='b640e5223d7429d5748404edddfe2dde54b4fb5da0e7f1e1c872675cefd6d339'/>
+    </properties>
+  </artifact>
+</artifacts>

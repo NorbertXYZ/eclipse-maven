@@ -1,5 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Jun 11 09:06:25 CEST 2026
+#Thu Sep 10 11:16:18 CEST 2026
 javax.inject-1.jar>central=
 javax.inject-1.jar>eclipse-cbi=
 javax.inject-1.pom>eclipse-cbi=

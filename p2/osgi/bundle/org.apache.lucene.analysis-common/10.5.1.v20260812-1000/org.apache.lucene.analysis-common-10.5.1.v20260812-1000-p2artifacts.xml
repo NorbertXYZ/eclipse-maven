@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.lucene.analysis-common' version='10.5.1.v20260812-1000'>
+    <properties size='8'>
+      <property name='maven-wrapped-groupId' value='org.apache.lucene'/>
+      <property name='maven-wrapped-artifactId' value='lucene-analysis-common'/>
+      <property name='maven-wrapped-version' value='10.5.1'/>
+      <property name='maven-wrapped-classifier' value=''/>
+      <property name='download.size' value='1842579'/>
+      <property name='artifact.size' value='1842579'/>
+      <property name='download.checksum.sha-512' value='53e6ee59484a432fa9bc181eead21067080c2b58f8915901b89e7b4cae90b373222dfb87c8e1212eac2c95d0e34c8d5af1cd1b3724f7dbb63648c911be751884'/>
+      <property name='download.checksum.sha-256' value='d3a4ebca81405a97147ff2b98f1fce2ddb7275746015ee69879811703ffad1c3'/>
+    </properties>
+  </artifact>
+</artifacts>

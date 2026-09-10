@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.lucene.analysis-common.source' version='10.5.1.v20260812-1000'>
+    <properties size='10'>
+      <property name='maven-groupId' value='org.apache.lucene'/>
+      <property name='maven-artifactId' value='lucene-analysis-common'/>
+      <property name='maven-version' value='10.5.1'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='maven-repository' value='eclipse.maven.central.mirror'/>
+      <property name='maven-type' value='jar'/>
+      <property name='download.size' value='1470439'/>
+      <property name='artifact.size' value='1470439'/>
+      <property name='download.checksum.sha-512' value='4e3b9d0377f5720d844e48b9aced3623984b9f80ff3ff800e5b2876cebf01235bc9c95186c0489d30086c7dabb8bd4219b725179c0792121af4ecb0a673efc8a'/>
+      <property name='download.checksum.sha-256' value='c6ed9aa117953a6ac5933329397940ca605b280e9efafeb77fc41cfb61fb1d9f'/>
+    </properties>
+  </artifact>
+</artifacts>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.eclipse.core.commands' version='3.13.0.v20260605-1749'>
+    <properties size='9'>
+      <property name='artifact.size' value='121051'/>
+      <property name='download.size' value='121051'/>
+      <property name='maven-groupId' value='org.eclipse.platform'/>
+      <property name='maven-artifactId' value='org.eclipse.core.commands'/>
+      <property name='maven-version' value='3.13.0-SNAPSHOT'/>
+      <property name='maven-type' value='eclipse-plugin'/>
+      <property name='download.stats' value='org.eclipse.core.commands/3.13.0.v20260605-1749'/>
+      <property name='download.checksum.sha-512' value='e11babe54630e9cde1e15b4e8e370a2c6fdb63b1618b30435b81ac63be7f4b43315445b27805ddfb5a5fa1218b3f3e7a8a52ea0072319aa56f1e48debab36dc2'/>
+      <property name='download.checksum.sha-256' value='fe916979793d364fcd0a71c15c3fa803d60a8566cff8c64b0eef04918b5b6a65'/>
+    </properties>
+  </artifact>
+</artifacts>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.apache.lucene.analysis-smartcn.source' version='10.5.1.v20260812-1000'>
+    <properties size='10'>
+      <property name='maven-groupId' value='org.apache.lucene'/>
+      <property name='maven-artifactId' value='lucene-analysis-smartcn'/>
+      <property name='maven-version' value='10.5.1'/>
+      <property name='maven-classifier' value='sources'/>
+      <property name='maven-repository' value='eclipse.maven.central.mirror'/>
+      <property name='maven-type' value='jar'/>
+      <property name='download.size' value='61219'/>
+      <property name='artifact.size' value='61219'/>
+      <property name='download.checksum.sha-512' value='f41011fbd90ac4e9f24989777e5c5a62a4d9f7cf585f86130e3c2c8ee8ba64e23ad6465544f94ad74b3a79638c44343ba628192de2087341fe471c4dc845ced0'/>
+      <property name='download.checksum.sha-256' value='aa4a9a3289be02a30d36049c56a513c70e3c354c2b68b902097c620c07c59e33'/>
+    </properties>
+  </artifact>
+</artifacts>
